@@ -5,8 +5,6 @@ Network Programming Project
 
  
 
-G00438798 - Cathal Doyle
-
 Description:
 This Java Project, is a command line tool that allows users to generate a server and connect multiple chats to it. In this project you can add multiple clients to this network based chat application using the Java Socket API. We have achieved a multiple chat through the use of Threads.
 To achieve this, we have three classes in use: Client, ClientHandler and ServerMultiChat.
